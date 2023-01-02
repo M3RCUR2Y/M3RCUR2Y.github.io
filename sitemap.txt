@@ -1,3 +1,4 @@
+http://example.com/2023/01/02/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-js/
 http://example.com/2022/11/30/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-html%E4%B8%8Ecss/
 http://example.com/2022/11/06/%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A102/
 http://example.com/2022/11/05/%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A101/
